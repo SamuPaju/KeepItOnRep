@@ -1,2 +1,2 @@
 # KeepItOnRep
- Keep it on games github repo
+ Keep it on game's github repo
